@@ -111,6 +111,7 @@ It creates the fitted curve, estimates the unknown parameters, and creates the c
 ## Results
 
 The retrieved parameters closely resemble the initial values that were used to create the dataset. The trace graphs reveal that the MCMC sampler has high convergence, and the posterior distributions display little uncertainty.
+Desmos link:https://www.desmos.com/calculator/civedevale
 ---
 
 ## References
