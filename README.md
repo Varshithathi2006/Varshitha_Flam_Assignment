@@ -122,4 +122,3 @@ The retrieved parameters closely resemble the initial values that were used to c
 5. Storn, R., & Price, K. (1997). *Differential Evolution: A Simple and Efficient Heuristic for Global Optimization*. Journal of Global Optimization, 11(4), 341–359.
 6. Gelman, A., & Rubin, D. B. (1992). *Inference from Iterative Simulation Using Multiple Sequences*. Statistical Science, 7(4), 457–472.
 7. Gelman, A., et al. (2013). *Bayesian Data Analysis* (3rd ed.). Chapman & Hall/CRC.
-8. Bentley, J. L. (1975). *Multidimensional Binary Search Trees Used for Associative Searching*. Communications of the ACM, 18(9), 509–517.
