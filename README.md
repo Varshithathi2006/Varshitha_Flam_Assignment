@@ -72,7 +72,7 @@ The final parameter values and their uncertainties are estimated using the poste
 ## Project Files
 
 | File | Description |
-| `mcmc.py` | Python implementation of Bayesian parameter estimation | 
+| `mcmc.py` | Python implementation of Bayesian parameter estimation |
 | `xy_data.csv` | 1500-point observed dataset |
 | `report.tex` | LaTeX source of the report |
 | `report.pdf` | Final project report | 
